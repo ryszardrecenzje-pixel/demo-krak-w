@@ -1,0 +1,22 @@
+[
+  {
+    "tytul": "Pralko-suszarka Candy RO16106DWMCT",
+    "opis": "10 kg prania + suszenie – promocja miesiąca",
+    "cena": "2 199 zł",
+    "cena_stara": "2 499 zł",
+    "zdjecie": "images/magazyn/Candy_RO16106DWMCT.jpg",
+    "zdjecie_duze": "images/magazyn/Candy_RO16106DWMCT.jpg",
+    "producent": "Candy",
+    "aktualizacja": "2026-10-08"
+  },
+  {
+    "tytul": "Piekarnik Amica ED37617X",
+    "opis": "Termoobieg + grill w super cenie",
+    "cena": "1 099 zł",
+    "cena_stara": "1 299 zł",
+    "zdjecie": "images/magazyn/oven2.jpg",
+    "zdjecie_duze": "images/magazyn/oven2.jpg",
+    "producent": "Amica",
+    "aktualizacja": "2026-10-08"
+  }
+]

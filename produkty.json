@@ -1,0 +1,42 @@
+{
+  "lodowki.html": [
+    {
+      "tytul": "Whirlpool W7 931T OX",
+      "opis": "Lodówka side-by-side, No Frost, duża pojemność.",
+      "cena": "4 199 zł",
+      "zdjecia": [
+        "images/magazyn/fridge2.jpg"
+      ]
+    }
+  ],
+  "pralki.html": [
+    {
+      "tytul": "Candy RO16106DWMCT",
+      "opis": "Pralka 10 kg z suszarką, Smart Touch.",
+      "cena": "2 499 zł",
+      "zdjecia": [
+        "images/magazyn/Candy_RO16106DWMCT.jpg"
+      ]
+    },
+    {
+      "tytul": "Electrolux EW6SN406WI",
+      "opis": "Pralka wąska 6 kg – idealna do małych łazienek.",
+      "cena": "1 599 zł",
+      "zdjecia": [
+        "images/magazyn/washer2.jpg"
+      ]
+    }
+  ],
+  "zmywarki.html": [],
+  "piekarniki.html": [
+    {
+      "tytul": "Amica ED37617X",
+      "opis": "Piekarnik elektryczny z termoobiegiem i grillem.",
+      "cena": "1 299 zł",
+      "zdjecia": [
+        "images/magazyn/oven2.jpg"
+      ]
+    }
+  ],
+  "male_agd.html": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "tytul": "Candy RO16106DWMCT",
+    "status": "Dostępny od ręki",
+    "cena": "2 499 zł",
+    "kategoria": "pralki",
+    "zdjecie": "images/magazyn/Candy_RO16106DWMCT.jpg"
+  },
+  {
+    "tytul": "Whirlpool W7 931T OX",
+    "status": "Na zamówienie 3–5 dni",
+    "cena": "4 199 zł",
+    "kategoria": "lodowki",
+    "zdjecie": "images/magazyn/fridge2.jpg"
+  },
+  {
+    "tytul": "Amica ED37617X",
+    "status": "Dostępny",
+    "cena": "1 299 zł",
+    "kategoria": "piekarniki",
+    "zdjecie": "images/magazyn/oven2.jpg"
+  }
+]
